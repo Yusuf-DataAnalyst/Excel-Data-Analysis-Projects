@@ -26,8 +26,6 @@ This repository showcases my projects using Microsoft Excel for data cleaning, P
 
 * **📸 Project Preview | معاينة المشروع:**
 ![Zwiggy vs Zomato Preview](Zwiggy_vs_Zomato.png)
-### 📸 Project Preview | معاينة المشروع
-![project preview](Zwiggy_vs_Zomato.png)
 
 
 ---
