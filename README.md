@@ -11,4 +11,5 @@ This repository showcases my projects using Microsoft Excel for data cleaning, P
 * **عربي:** تحليل شامل لبيانات منصات توصيل الطعام لمتابعة أداء المبيعات ومؤشرات الأداء.
 
 ### 📸 Project Preview | معاينة المشروع
-[Zwiggy_vs_Zomato.png] 
+![project preview]
+(Zwiggy_vs_Zomato.png)
