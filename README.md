@@ -6,10 +6,26 @@ This repository showcases my projects using Microsoft Excel for data cleaning, P
 
 ## 🛒 Projects | المشاريع
 
-### 📊 Food Delivery Sales Summary (Zomato & Swiggy)
-* **English:** A comprehensive analysis of food delivery data to track sales performance and platforms metrics.
-* **عربي:** تحليل شامل لبيانات منصات توصيل الطعام لمتابعة أداء المبيعات ومؤشرات الأداء.
+### 1️⃣ Zomato vs Swiggy Sales Performance Analysis | تحليل أداء مبيعات منصات توصيل الطعام 🛒
 
+* **📌 Project Overview | عن المشروع:**
+  * **English:** A data analytics project focused on evaluating and comparing the sales performance, customer preferences, and business metrics of two major food delivery giants (Zomato & Swiggy). Using advanced spreadsheet techniques, I processed raw transactional data to extract actionable commercial insights.
+  * **عربي:** مشروع تحليل مبيعات متقدم يهدف إلى تقييم ومقارنة أداء المبيعات وسلوك المستهلكين والمؤشرات التجارية لأكبر منصتين في قطاع توصيل الطعام (Zomato و Swiggy). باستخدام تقنيات الجداول المحورية والمعادلات، قمت بمعالجة البيانات الخام لاستخراج رؤى تدعم نمو المبيعات.
+
+* **⚙️ Analytical Techniques Used | المهارات والتقنيات المستخدمة:**
+  * **Data Aggregation & Pivot Tables:** Built dynamic pivot tables to summarize total revenue, order counts, and performance metrics per platform.
+  * **الجداول المحورية:** بناء جداول محورية ديناميكية لتلخيص إجمالي الإيرادات، وأعداد الطلبات، ومقارنة معدلات النمو بين المنصتين.
+  * **Advanced Formatting:** Applied customized visual presentation rules to highlight the top-performing operational zones ("The Kings of Sales").
+  * **التنسيق المتقدم:** تطبيق قواعد التنسيق البصري لإبراز المناطق الجغرافية الأكثر تحقيقاً للأرباح وتحديد الفروق الجوهرية في الأداء.
+
+* **📊 Core Insights Extracted | أهم الرؤى المستخرجة:**
+  * Identified which platform dominates total sales volume and revenue generation.
+  * مقارنة مباشرة وحاسمة لمعرفة أي المنصتين تستحوذ على الحصة السوقية الأكبر وحجم الطلبات اليومي.
+  * Analyzed geographic distribution to pinpoint the highest-earning regions for business scaling.
+  * تحديد المناطق الجغرافية الأعلى إنتاجية للطلب ومقارنة سلوك العملاء في كل منطقة للاستفادة منها في خطط التسويق.
+
+* **📸 Project Preview | معاينة المشروع:**
+![Zwiggy vs Zomato Preview](Zwiggy_vs_Zomato.png)
 ### 📸 Project Preview | معاينة المشروع
 ![project preview](Zwiggy_vs_Zomato.png)
 
