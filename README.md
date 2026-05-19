@@ -44,3 +44,14 @@ This repository showcases my projects using Microsoft Excel for data cleaning, P
 
 * **📸 Project Preview | معاينة المشروع:**
 ![Netflix Preview](netflix.png)
+
+
+
+### 3️⃣ Medical Analytics & Healthcare Dashboard 🏥
+* **📌 Project Overview | عن المشروع:**
+  * **English:** An advanced spreadsheet project focused on healthcare metrics. I structured and analyzed medical tracking records to build an insightful dashboard that visualizes patient data and clinical performance trends.
+  * **عربي:** مشروع متقدم لتحليل البيانات الطبية والرعاية الصحية. قمت بتهيئة وتنظيم السجلات الطبية لبناء لوحة تحكم ذكية تستعرض مؤشرات أداء المرضى والتحليلات العلاجية بشكل مرئي منظم.
+* **⚙️ Features:** Interactive design, automated health metric tracking, and visual trend distribution.
+* **📸 Project Previews | معاينة المشروع:**
+![Medical Dashboard Preview 1](medical.png.png)
+![Medical Dashboard Preview 2](medical2.png.png)
