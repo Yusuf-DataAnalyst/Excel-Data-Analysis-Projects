@@ -41,6 +41,19 @@ This repository serves as a comprehensive collection of my data analysis project
 
 ---
 
+### 4️⃣ Medical Analytics & Healthcare Dashboard 🏥
+* **Project Overview:** A specialized project focused on clinical data management and healthcare performance metrics. I structured complex, raw medical tracking records to build an insightful, interactive dashboard that visualizes patient data and clinical performance trends.
+* **Analytical Workflow:**
+  * **Data Structuring:** Cleaned and organized patient records to ensure consistency in tracking clinical metrics and patient outcomes.
+  * **Dashboard Architecture:** Designed an intuitive, user-friendly interface that aggregates key healthcare indicators, allowing for quick assessment of clinical performance.
+  * **Automated Trend Tracking:** Implemented automated calculations and visual elements to monitor health metric distribution and operational efficiency over time.
+* **Impact:** This dashboard transforms fragmented medical records into a clear strategic overview, assisting in the identification of trends in patient care and clinical performance.
+* **Project Preview:**
+![Medical Dashboard Preview 1](medical.png.png)
+![Medical Dashboard Preview 2](medical2.png.png)
+
+---
+
 ## 🛠️ Skills & Technologies
 * **Advanced Excel Functions:** XLOOKUP, SUMIF, COUNTIF, MAX, IF-Logic, Nested Functions.
 * **Business Intelligence:** Pivot Table Architecture, Dynamic Dashboarding, Trend Analysis.
