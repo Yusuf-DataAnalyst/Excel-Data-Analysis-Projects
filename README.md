@@ -1,57 +1,49 @@
-# Excel-Data-Analysis-Projects
-# 📊 Advanced Excel Data Analysis - تحليلات إكسيل المتقدمة
+# 📊 Advanced Excel Data Analysis Portfolio
 
-This repository showcases my projects using Microsoft Excel for data cleaning, Pivot Tables, and business insights.
-هنا أستعرض مشاريعي في تحليل البيانات باستخدام مهارات إكسيل المتقدمة، الجداول المحورية، واستخراج المؤشرات المالية.
-
-## 🛒 Projects | المشاريع
-
-### 1️⃣ Zomato vs Swiggy Sales Performance Analysis | تحليل أداء مبيعات منصات توصيل الطعام 🛒
-
-* **📌 Project Overview | عن المشروع:**
-  * **English:** A data analytics project focused on evaluating and comparing the sales performance, customer preferences, and business metrics of two major food delivery giants (Zomato & Swiggy). Using advanced spreadsheet techniques, I processed raw transactional data to extract actionable commercial insights.
-  * **عربي:** مشروع تحليل مبيعات متقدم يهدف إلى تقييم ومقارنة أداء المبيعات وسلوك المستهلكين والمؤشرات التجارية لأكبر منصتين في قطاع توصيل الطعام (Zomato و Swiggy). باستخدام تقنيات الجداول المحورية والمعادلات، قمت بمعالجة البيانات الخام لاستخراج رؤى تدعم نمو المبيعات.
-
-* **⚙️ Analytical Techniques Used | المهارات والتقنيات المستخدمة:**
-  * **Data Aggregation & Pivot Tables:** Built dynamic pivot tables to summarize total revenue, order counts, and performance metrics per platform.
-  * **الجداول المحورية:** بناء جداول محورية ديناميكية لتلخيص إجمالي الإيرادات، وأعداد الطلبات، ومقارنة معدلات النمو بين المنصتين.
-  * **Advanced Formatting:** Applied customized visual presentation rules to highlight the top-performing operational zones ("The Kings of Sales").
-  * **التنسيق المتقدم:** تطبيق قواعد التنسيق البصري لإبراز المناطق الجغرافية الأكثر تحقيقاً للأرباح وتحديد الفروق الجوهرية في الأداء.
-
-* **📊 Core Insights Extracted | أهم الرؤى المستخرجة:**
-  * Identified which platform dominates total sales volume and revenue generation.
-  * مقارنة مباشرة وحاسمة لمعرفة أي المنصتين تستحوذ على الحصة السوقية الأكبر وحجم الطلبات اليومي.
-  * Analyzed geographic distribution to pinpoint the highest-earning regions for business scaling.
-  * تحديد المناطق الجغرافية الأعلى إنتاجية للطلب ومقارنة سلوك العملاء في كل منطقة للاستفادة منها في خطط التسويق.
-
-* **📸 Project Preview | معاينة المشروع:**
-![Zwiggy vs Zomato Preview](Zwiggy_vs_Zomato.png)
-
+This repository showcases my expertise in using Microsoft Excel as a powerful data analysis tool. It highlights my ability to perform complex data cleaning, data modeling, and the creation of professional business dashboards.
 
 ---
 
-### 2️⃣ Netflix Data Cleaning Project | مشروع تنظيف بيانات نتفليكس 🎬
+## 🚀 Featured Projects
 
-* **📌 Project Overview | عن المشروع:**
-  * **English:** This project focuses on the crucial phase of data analysis: **Data Cleaning**. Using a raw dataset from Kaggle containing Netflix titles, I performed comprehensive data cleaning to prepare it for accurate analysis.
-  * **عربي:** يركز هذا المشروع على أهم مرحلة في تحليل البيانات وهي **تنظيف البيانات (Data Cleaning)**. باستخدام بيانات خام من Kaggle لـ Netflix، قمت بمعالجتها وتصحيح الأخطاء لجعلها جاهزة للتحليل.
+### 1️⃣ World Population Analysis Dashboard 🌍
+* **Project Overview:** An analytical project based on the "World Population" dataset. I processed global demographic data to categorize countries and visualize population distribution across continents.
+* **Excel Functions Used:** * **XLOOKUP:** For precise data retrieval and mapping.
+  * **SUMIF & COUNTIF:** For aggregating population totals and frequency counting based on specific criteria.
+  * **MAX:** To identify peak population metrics within regions.
+  * **IF Logic:** For creating conditional categories (e.g., classifying countries as "Large" or "Small").
+* **Key Features:** Built a comprehensive dashboard featuring bar charts and pie charts to compare population density and growth trends globally.
+* **Project Preview:**
+![Population Dashboard](population.png)
+![Population Data](population2.png)
 
-* **🧽 Cleaning Steps Performed | خطوات التنظيف:**
-  * **Handling Missing Values:** Replaced empty cells in critical columns like `director` and `cast` with **"Not Given"**.
-  * **معالجة القيم المفقودة:** تم رصد خلايا فارغة في أعمدة المخرجين والممثلين واستبدالها بعبارة **"Not Given"** لتوحيد البيانات.
-  * **Removing Duplicates:** Scanned and removed any duplicated records using `show_id`.
-  * **إزالة التكرار:** فحص المعرفات الفريدة للتأكد من عدم تكرار أي صف.
+---
 
-* **📸 Project Preview | معاينة المشروع:**
+### 2️⃣ Zomato vs Swiggy Sales Performance Analysis 🛒
+* **Project Overview:** A comparative analysis evaluating the sales performance and customer behavior of two major food delivery platforms.
+* **Analytical Techniques:** Data Aggregation, Pivot Tables, and Advanced Formatting to highlight key sales drivers.
+* **Project Preview:**
+![Zwiggy vs Zomato Preview](Zwiggy_vs_Zomato.png)
+
+---
+
+### 3️⃣ Netflix Data Cleaning Project 🎬
+* **Project Overview:** Focused on the foundational stage of data analysis: **Data Cleaning**. Pre-processed raw datasets to ensure high data integrity for accurate reporting.
+* **Cleaning Steps:** Handled missing values (`Not Given`) and performed deduplication.
+* **Project Preview:**
 ![Netflix Preview](netflix.png)
 
+---
 
-
-### 3️⃣ Medical Analytics & Healthcare Dashboard 🏥
-* **📌 Project Overview | عن المشروع:**
-  * **English:** An advanced spreadsheet project focused on healthcare metrics. I structured and analyzed medical tracking records to build an insightful dashboard that visualizes patient data and clinical performance trends.
-  * **عربي:** مشروع متقدم لتحليل البيانات الطبية والرعاية الصحية. قمت بتهيئة وتنظيم السجلات الطبية لبناء لوحة تحكم ذكية تستعرض مؤشرات أداء المرضى والتحليلات العلاجية بشكل مرئي منظم.
-* **⚙️ Features:** Interactive design, automated health metric tracking, and visual trend distribution.
-* **📸 Project Previews | معاينة المشروع:**
+### 4️⃣ Medical Analytics & Healthcare Dashboard 🏥
+* **Project Overview:** Structured medical tracking records to build an insightful dashboard visualizing patient data and clinical performance trends.
+* **Key Features:** Interactive design and automated health metric tracking.
+* **Project Preview:**
 ![Medical Dashboard Preview 1](medical.png.png)
 ![Medical Dashboard Preview 2](medical2.png.png)
+
+---
+
+## 🛠️ Skills & Technologies
+* **Excel Core:** XLOOKUP, SUMIF, COUNTIF, MAX, IF, Pivot Tables, Conditional Formatting, Data Validation.
+* **Methodology:** Data Cleaning, Trend Analysis, KPI Dashboarding, Business Intelligence.
