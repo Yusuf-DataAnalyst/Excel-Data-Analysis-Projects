@@ -53,6 +53,28 @@ This repository serves as a comprehensive collection of my data analysis project
 ![Medical Dashboard Preview 2](medical2.png.png)
 
 ---
+---
+
+### 5️⃣ Global Freelancers Data Cleaning & Analysis 🌍
+* **📌 Project Overview:** This project demonstrates the end-to-end process of transforming a raw, unformatted single-column CSV dataset of global freelancers into a clean, structured, and analyzed Excel dashboard.
+* **🛠️ Tools Used:** Microsoft Excel (Text-to-Columns, Advanced Formulas, Pivot Tables, Pivot Charts).
+* **🧼 Key Data Cleaning Steps:**
+  * **Data Parsing:** Split the raw comma-delimited text into 13 structured columns.
+  * **Text Standardization:** Uniformed inconsistent gender values (e.g., `female`, `FEMALF`, `m`) into `Male` and `Female`.
+  * **Currency Cleaning:** Removed text prefixes (`$`, `USD`) from hourly rates to enable mathematical calculations.
+  * **Handling Missing Values:** Imputed null values in `rating`, `age`, and `client_satisfaction` using statistical averages.
+  * **Boolean Uniformity:** Converted mixed indicators (`yes`, `1`, `0`) into standard `TRUE` / `FALSE` values.
+* **📊 Analysis & Insights:**
+  * **Feature Engineering:** Grouped freelancers into `Junior`, `Mid-Level`, and `Senior` based on years of experience.
+  * **Pivot Tables:** Analyzed the average hourly rate per skill and freelancer distribution by country.
+  * **Data Visualization:** Created Pivot Charts to visually capture market trends and high-paying tech domains.
+* **📸 Project Previews:**
+![Global Freelancers Preview 1](Global_Freelance.png)
+![Global Freelancers Preview 2](Global_Freelance2.png)
+
+
+
+
 
 ## 🛠️ Skills & Technologies
 * **Advanced Excel Functions:** XLOOKUP, SUMIF, COUNTIF, MAX, IF-Logic, Nested Functions.
