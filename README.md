@@ -74,6 +74,47 @@ This repository serves as a comprehensive collection of my data analysis project
 
 
 
+------- 
+
+
+
+6️⃣   Financial Sales Performance Dashboard
+An interactive Excel Data Analysis project focused on cleaning, transforming, and analyzing global sales data to extract actionable business insights.
+## 🚀 Project Overview
+This project takes a raw, unformatted financial dataset and transforms it into a dynamic, production-ready analytics dashboard. The primary goal was to handle typical real-world data quality issues and build an interactive reporting system for executive decision-making. 
+
+## 🛠️ Key Analytical Steps
+### 1. Data Cleaning & Engineering
+* **Text-to-Columns Transformation:** Handled raw CSV parsing issues by restructuring data from a single string column into a proper relational table layout.
+* **Data Type Rectification:** Resolved strict formatting anomalies (e.g., `#VALUE!` errors) by stripping hidden string characters and converting metrics into calculated float/integer fields.
+* **Feature Engineering:** Developed advanced logical structures using nested conditional logic:
+  $$\text{Order Size} = f(\text{Units Sold})$$
+  Categorized as **Small**, **Medium**, or **Large** based on distribution bounds to enhance operational filtering.
+* **Financial Modeling:** Added core custom metrics including **Profit Margin %** calculations:
+  $$\text{Profit Margin} = \frac{\text{Profit}}{\text{Sales}}$$
+
+### 2. Aggregation & Pivot Tables
+* Restructured over 700 operational rows into multidimensional summaries using Excel Pivot Tables.
+* Switched aggregation types from simple counts to **Summatons (SUM)** to track multi-million dollar performance across geographical and sectoral dimensions.
+
+### 3. Dynamic Visualization & UX
+* Developed a high-impact visual interface optimized for clarity.
+* **Geographical Matrix:** Utilized a distribution Pie Chart to break down global profitability.
+* **Product-Segment Matrix:** Implemented a clustered Column Chart to track product performance across distinct market categories.
+* **Interactive Slicers:** Embedded synchronized timeline filters (`Month Name` & `Year`) for seamless, on-the-fly interactive filtering.
+* 
+## 📊 Key Executive Insights
+* **The Growth Engine:** The **Government** sector represents the highest volume driver for the organization, showing exponential traction when paired with the **Paseo** product line.
+* **Geographical Balance:** Profitability is highly synchronized across international borders, with **France** and **Germany** securing a marginal lead in absolute net returns.
+* **Product Optimization:** While **Paseo** dominates the charts as a top-tier seller, **Carretera** exhibits prolonged stagnation across multiple segments, indicating a critical need for marketing re-evaluation or pricing adjustments.
+## 🧰 Tech Stack Used
+* **Microsoft Excel:** Advanced Formulas (`IF`, `VALUE`, `SUBSTITUTE`), Pivot Tables, Pivot Charts, Slicers, Data Cleaning Tools.
+* * **📸 Project Previews:**
+![financial preview](financial1.png)
+![financial preview](financial2.png)
+
+
+
 
 
 ## 🛠️ Skills & Technologies
